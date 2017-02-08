@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "myapp",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watermill/myapp.git"
+  },
+  "author": "fads",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watermill/myapp/issues"
+  },
+  "homepage": "https://github.com/watermill/myapp#readme",
+  "devDependencies": {
+    "react": "^15.4.2"
+  }
+}
